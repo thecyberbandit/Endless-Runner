@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 39e8d966bbf9e2249b65928595a1a764
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: collider
+    100002: Empty
+    100004: Highway_1A.002
+    100006: //RootNode
+    100008: NurbsPath
+    100010: Road_1O.001
+    100012: Road_1O.002
+    100014: Road_1O.003
+    100016: Road_1O.011
+    100018: Road_1O.012
+    100020: Road_1T.004
+    100022: Streetlight_3A.005
+    100024: Road_1O.004
+    400000: collider
+    400002: Empty
+    400004: Highway_1A.002
+    400006: //RootNode
+    400008: NurbsPath
+    400010: Road_1O.001
+    400012: Road_1O.002
+    400014: Road_1O.003
+    400016: Road_1O.011
+    400018: Road_1O.012
+    400020: Road_1T.004
+    400022: Streetlight_3A.005
+    400024: Road_1O.004
+    2100000: collider
+    2100002: Atlas
+    2100004: Road_1A_D
+    2100006: Road_1A_D.024
+    2300000: collider
+    2300002: Highway_1A.002
+    2300004: NurbsPath
+    2300006: Road_1O.001
+    2300008: Road_1O.002
+    2300010: Road_1O.003
+    2300012: Road_1O.011
+    2300014: Road_1O.012
+    2300016: Road_1T.004
+    2300018: Streetlight_3A.005
+    2300020: Road_1O.004
+    3300000: collider
+    3300002: Highway_1A.002
+    3300004: NurbsPath
+    3300006: Road_1O.001
+    3300008: Road_1O.002
+    3300010: Road_1O.003
+    3300012: Road_1O.011
+    3300014: Road_1O.012
+    3300016: Road_1T.004
+    3300018: Streetlight_3A.005
+    3300020: Road_1O.004
+    4300000: collider
+    4300002: NurbsPath
+    4300004: Road_1O.012
+    4300006: Road_1O.002
+    4300008: Road_1O.003
+    4300010: Road_1O.001
+    4300012: Highway_1A.002
+    4300014: Road_1O.011
+    4300016: Streetlight_3A.005
+    4300018: Road_1T.004
+    4300020: Road_1O.004
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas
+    second: {fileID: 2100000, guid: ef9cb2a17588f3644baa2018caa3e03d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_1A_D
+    second: {fileID: 2100000, guid: cfb380a7696b40541b11144121f3b88a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_1A_D.024
+    second: {fileID: 2100000, guid: 2dbf9a17f14f7374aaaeb1ceef5c916b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: collider
+    second: {fileID: 2100000, guid: 5970112031c9c7a4e9128550d780222f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

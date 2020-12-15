@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 324a2db64b430c24ba9fe55bc83ddf1e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: floor.001
+    100002: floor.002
+    100004: floor.003
+    100006: Flower_1A
+    100008: Flower_1A.001
+    100010: Flower_1A.002
+    100012: Flower_1A.003
+    100014: Flower_1A.004
+    100016: Flower_1A.005
+    100018: Ground
+    100020: //RootNode
+    100022: mud ground
+    100024: mud ground.001
+    100026: mud ground.002
+    100028: Pavement_1C_3x3.001
+    100030: Pavement_1C_4x4.001
+    100032: Pavement_1C_4x4.003
+    100034: Pavement_1C_4x4.004
+    100036: Pavement_1D_2x2.001
+    100038: Pavement_1E_4x4.001
+    100040: Pavement_1I_4x4.001
+    100042: Pavement_1I_4x4.002
+    100044: Pavement_1J_4x4.001
+    100046: Pavement_1J_4x4.002
+    100048: Pavement_1J_4x4.003
+    100050: Pavement_1N_4x4.001
+    100052: Pavement_1N_4x4.002
+    100054: road side big portion
+    100056: road side big portion.001
+    100058: road side big portion.002
+    100060: wall.005
+    100062: wall.006
+    400000: floor.001
+    400002: floor.002
+    400004: floor.003
+    400006: Flower_1A
+    400008: Flower_1A.001
+    400010: Flower_1A.002
+    400012: Flower_1A.003
+    400014: Flower_1A.004
+    400016: Flower_1A.005
+    400018: Ground
+    400020: //RootNode
+    400022: mud ground
+    400024: mud ground.001
+    400026: mud ground.002
+    400028: Pavement_1C_3x3.001
+    400030: Pavement_1C_4x4.001
+    400032: Pavement_1C_4x4.003
+    400034: Pavement_1C_4x4.004
+    400036: Pavement_1D_2x2.001
+    400038: Pavement_1E_4x4.001
+    400040: Pavement_1I_4x4.001
+    400042: Pavement_1I_4x4.002
+    400044: Pavement_1J_4x4.001
+    400046: Pavement_1J_4x4.002
+    400048: Pavement_1J_4x4.003
+    400050: Pavement_1N_4x4.001
+    400052: Pavement_1N_4x4.002
+    400054: road side big portion
+    400056: road side big portion.001
+    400058: road side big portion.002
+    400060: wall.005
+    400062: wall.006
+    2100000: Atlas
+    2300000: floor.001
+    2300002: floor.002
+    2300004: floor.003
+    2300006: Flower_1A
+    2300008: Flower_1A.001
+    2300010: Flower_1A.002
+    2300012: Flower_1A.003
+    2300014: Flower_1A.004
+    2300016: Flower_1A.005
+    2300018: Ground
+    2300020: mud ground
+    2300022: mud ground.001
+    2300024: mud ground.002
+    2300026: Pavement_1C_3x3.001
+    2300028: Pavement_1C_4x4.001
+    2300030: Pavement_1C_4x4.003
+    2300032: Pavement_1C_4x4.004
+    2300034: Pavement_1D_2x2.001
+    2300036: Pavement_1E_4x4.001
+    2300038: Pavement_1I_4x4.001
+    2300040: Pavement_1I_4x4.002
+    2300042: Pavement_1J_4x4.001
+    2300044: Pavement_1J_4x4.002
+    2300046: Pavement_1J_4x4.003
+    2300048: Pavement_1N_4x4.001
+    2300050: Pavement_1N_4x4.002
+    2300052: road side big portion
+    2300054: road side big portion.001
+    2300056: road side big portion.002
+    2300058: wall.005
+    2300060: wall.006
+    3300000: floor.001
+    3300002: floor.002
+    3300004: floor.003
+    3300006: Flower_1A
+    3300008: Flower_1A.001
+    3300010: Flower_1A.002
+    3300012: Flower_1A.003
+    3300014: Flower_1A.004
+    3300016: Flower_1A.005
+    3300018: Ground
+    3300020: mud ground
+    3300022: mud ground.001
+    3300024: mud ground.002
+    3300026: Pavement_1C_3x3.001
+    3300028: Pavement_1C_4x4.001
+    3300030: Pavement_1C_4x4.003
+    3300032: Pavement_1C_4x4.004
+    3300034: Pavement_1D_2x2.001
+    3300036: Pavement_1E_4x4.001
+    3300038: Pavement_1I_4x4.001
+    3300040: Pavement_1I_4x4.002
+    3300042: Pavement_1J_4x4.001
+    3300044: Pavement_1J_4x4.002
+    3300046: Pavement_1J_4x4.003
+    3300048: Pavement_1N_4x4.001
+    3300050: Pavement_1N_4x4.002
+    3300052: road side big portion
+    3300054: road side big portion.001
+    3300056: road side big portion.002
+    3300058: wall.005
+    3300060: wall.006
+    4300000: wall.006
+    4300002: wall.005
+    4300004: Ground
+    4300006: floor.001
+    4300008: floor.003
+    4300010: floor.002
+    4300012: mud ground
+    4300014: road side big portion.002
+    4300016: road side big portion.001
+    4300018: road side big portion
+    4300020: mud ground.001
+    4300022: mud ground.002
+    4300024: Pavement_1J_4x4.003
+    4300026: Pavement_1J_4x4.002
+    4300028: Pavement_1N_4x4.002
+    4300030: Pavement_1I_4x4.002
+    4300032: Pavement_1C_3x3.001
+    4300034: Pavement_1C_4x4.004
+    4300036: Pavement_1D_2x2.001
+    4300038: Pavement_1N_4x4.001
+    4300040: Pavement_1I_4x4.001
+    4300042: Pavement_1E_4x4.001
+    4300044: Pavement_1J_4x4.001
+    4300046: Pavement_1C_4x4.003
+    4300048: Pavement_1C_4x4.001
+    4300050: Flower_1A
+    4300052: Flower_1A.005
+    4300054: Flower_1A.004
+    4300056: Flower_1A.003
+    4300058: Flower_1A.002
+    4300060: Flower_1A.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

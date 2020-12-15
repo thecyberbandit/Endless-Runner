@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 0d983d9d08a11934dbec82b16064f5b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: floor
+    100002: floor.004
+    100004: Ground.001
+    100006: Highway_1A.001
+    100008: Highway_1F.001
+    100010: //RootNode
+    100012: Pavement_1E_4x4.002
+    100014: Pavement_1I_4x4.003
+    100016: Pavement_1I_4x4.004
+    100018: Pavement_1J_4x4.008
+    100020: Pavement_1J_4x4.009
+    100022: Pavement_1N_4x4.004
+    100024: Pavement_1N_4x4.005
+    100026: Plane.024
+    100028: Plane.025
+    100030: Plane.026
+    100032: Plane.027
+    100034: wall.003
+    100036: wall.004
+    400000: floor
+    400002: floor.004
+    400004: Ground.001
+    400006: Highway_1A.001
+    400008: Highway_1F.001
+    400010: //RootNode
+    400012: Pavement_1E_4x4.002
+    400014: Pavement_1I_4x4.003
+    400016: Pavement_1I_4x4.004
+    400018: Pavement_1J_4x4.008
+    400020: Pavement_1J_4x4.009
+    400022: Pavement_1N_4x4.004
+    400024: Pavement_1N_4x4.005
+    400026: Plane.024
+    400028: Plane.025
+    400030: Plane.026
+    400032: Plane.027
+    400034: wall.003
+    400036: wall.004
+    2100000: Atlas
+    2300000: floor
+    2300002: floor.004
+    2300004: Ground.001
+    2300006: Highway_1A.001
+    2300008: Highway_1F.001
+    2300010: Pavement_1E_4x4.002
+    2300012: Pavement_1I_4x4.003
+    2300014: Pavement_1I_4x4.004
+    2300016: Pavement_1J_4x4.008
+    2300018: Pavement_1J_4x4.009
+    2300020: Pavement_1N_4x4.004
+    2300022: Pavement_1N_4x4.005
+    2300024: Plane.024
+    2300026: Plane.025
+    2300028: Plane.026
+    2300030: Plane.027
+    2300032: wall.003
+    2300034: wall.004
+    3300000: floor
+    3300002: floor.004
+    3300004: Ground.001
+    3300006: Highway_1A.001
+    3300008: Highway_1F.001
+    3300010: Pavement_1E_4x4.002
+    3300012: Pavement_1I_4x4.003
+    3300014: Pavement_1I_4x4.004
+    3300016: Pavement_1J_4x4.008
+    3300018: Pavement_1J_4x4.009
+    3300020: Pavement_1N_4x4.004
+    3300022: Pavement_1N_4x4.005
+    3300024: Plane.024
+    3300026: Plane.025
+    3300028: Plane.026
+    3300030: Plane.027
+    3300032: wall.003
+    3300034: wall.004
+    4300000: Ground.001
+    4300002: wall.004
+    4300004: wall.003
+    4300006: Plane.027
+    4300008: Plane.026
+    4300010: Plane.025
+    4300012: Plane.024
+    4300014: floor
+    4300016: floor.004
+    4300018: Pavement_1E_4x4.002
+    4300020: Pavement_1I_4x4.004
+    4300022: Pavement_1N_4x4.005
+    4300024: Pavement_1I_4x4.003
+    4300026: Pavement_1N_4x4.004
+    4300028: Pavement_1J_4x4.009
+    4300030: Pavement_1J_4x4.008
+    4300032: Highway_1A.001
+    4300034: Highway_1F.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
